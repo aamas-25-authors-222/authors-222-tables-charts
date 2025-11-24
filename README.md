@@ -14,7 +14,7 @@
 ## New Table Format (not finalized)
 
 
-**
+**time of causal PBRS best eval
 
 
 | Environment           | State Removed | Full State SAC | Baseline (± std)              | CQL PBRS (± std)              | **Causal PBRS (ours) (± std)** |
