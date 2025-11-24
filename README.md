@@ -3,11 +3,11 @@
 
 ## CMDP in MuJoCo (not finalized)
 
-
+![chart_1](dim_5_masked.png)
 
 ## New Baselines (not finalized)
 
-![chart](sample_chart_not_final.png)
+![chart_2](sample_chart_not_final.png)
 
 ## New Table Format (not finalized)
 
