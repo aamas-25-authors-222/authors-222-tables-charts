@@ -3,7 +3,7 @@
 
 ## CMDP in MuJoCo (not finalized)
 
-![chart_1](dim_5_masked.png)
+![chart_2](dim_5_masked.png)
 
 * Add other dimensions
 
