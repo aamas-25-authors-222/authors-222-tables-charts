@@ -5,9 +5,8 @@
 
 ![chart_2](dim_5_masked.png)
 
-* Add other dimensions
 
 ## New Baselines (not finalized)
 
-![chart_2](sample_chart_not_final.png)
+![chart_2](new_baseline_charts.png)
 
