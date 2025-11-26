@@ -2,7 +2,7 @@
 
 ## Updated Paper based on reviewer feedback
 
-Updated Paper Draft with the following edits
+![Updated Paper Draft](Continuous_Reward_Shaping___AAMAS___Rebuttal_Update.pdf) with the following edits
 
 1. Condensed Table 1 to just include the best eval as well as the std of each test
 2. Added the new baselines (TREX and Recurrent SAC) to Table 1 - Given time constraints, we were not able to complete all 18 tests for the new baseline, but we will continue to run the remaining experiments and add them to the draft
