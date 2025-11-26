@@ -4,14 +4,14 @@
 
 ![Updated Paper Draft](Continuous_Reward_Shaping___AAMAS___Rebuttal_Update.pdf) with the following edits
 
-1. Condensed Table 1 to just include the best eval as well as the std of each test
-2. Added the new baselines (TREX and Recurrent SAC) to Table 1 - Given time constraints, we were not able to complete all 18 tests for the new baseline, but we will continue to run the remaining experiments and add them to the draft
+1. Condensed Table 1 to just include the Best Eval as well as the std of each test
+2. Added two new baselines (TREX and Recurrent SAC) to Table 1 - Given time constraints, we were not able to complete all 18 tests for the new baseline, but we will continue to run the remaining experiments and add them to the draft
 3. Added future directions to the conclusion and added further commentary in the future work section in the appendix
 5. Added further commentary of when the Causal PBRS method works in Section 5.3
 6. Added more detail to Figure 1
 7. Moved Final Eval portion of Table 1 to Appendix (now Table 7)
-8. Added best eval timestep for the SAC baseline and Causal PBRS method in Table 6.
-9. Added RCIT tests to demonstrate confounding bias in Section 12
+8. Added Best Eval timestep for the SAC baseline and Causal PBRS method in Table 6.
+9. Added RCIT tests to demonstrate confounding bias caused by masked dimensions in Section 12
 10. Polished texts and presentations
 
 
