@@ -26,4 +26,4 @@ To demonstrate the importance of the dimensions removed in the paper on the offl
 
 ![chart_2](new_baselines_charts.png)
 
-Above are the performance graphs for Hopper 1, Hopper 2, Walker 8, and Ant 13 with two new baselines - TREX PBRS and Recurrent SAC. Overall, the Causal PBRS method continues to have the strongest performance, with neither of the two methods about to surpass the State Removed Baseline. The TREX PBRS used 5 seeds, whereas the Recurrent SAC used 3 seeds given time constraints (except for Ant, which uses 2). We found running the Recurrent SAC code to be much slower (at least 10x) given BPTT and larger memory requirements.
+Above are the performance graphs for Hopper 1, Hopper 2, Walker 8, and Ant 13 with two new baselines - TREX PBRS and Recurrent SAC. Overall, the Causal PBRS method continues to have the strongest performance, with neither of the two methods about to surpass the State Removed Baseline. The TREX PBRS used 5 seeds, whereas the Recurrent SAC used 3 seeds given time constraints (except for Ant, which uses 2). We found running the Recurrent SAC baseline to be much slower (at least 10x) given BPTT and larger memory requirements.
