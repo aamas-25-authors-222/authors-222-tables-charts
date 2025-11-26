@@ -15,7 +15,7 @@
 10. Polished texts and presentations
 
 
-## CMDP in MuJoCo (not finalized)
+## CMDP in MuJoCo
 
 
 ![chart_2](dim_5_masked.png)
