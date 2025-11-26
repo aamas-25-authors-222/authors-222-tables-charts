@@ -12,7 +12,7 @@ Updated Paper Draft with the following edits
 7. Moved Final Eval portion of Table 1 to Appendix (now Table 7)
 8. Added best eval timestep for the SAC baseline and Causal PBRS method in Table 6.
 9. Added RCIT tests to demonstrate confounding bias in Section 12
-10. Polished texts and presentations.
+10. Polished texts and presentations
 
 
 ## CMDP in MuJoCo (not finalized)
