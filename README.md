@@ -16,4 +16,4 @@ To demonstrate the importance of the dimensions removed in the paper on the offl
 
 ![chart_2](new_baseline_charts.png)
 
-The TREX PBRS used 5 seeds, whereas the Recurrent SAC used 3 seeds given time constraints (except for Ant, which uses 2). We found running the Recurrent SAC code to be much lower (at least 10x) given BPTT.
+The TREX PBRS used 5 seeds, whereas the Recurrent SAC used 3 seeds given time constraints (except for Ant, which uses 2). We found running the Recurrent SAC code to be much lower (at least 10x) given BPTT and larger memory requirements.
